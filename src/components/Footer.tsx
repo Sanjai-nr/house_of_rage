@@ -12,7 +12,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://instagram.com/house_of_range"
+                href="https://instagram.com/house_of_rage_"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 glass-hover rounded-lg"

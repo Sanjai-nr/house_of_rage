@@ -160,11 +160,11 @@ export default function AboutPage() {
             JOIN THE RANGE
           </h2>
           <p className="text-gray-400 text-lg mb-8 max-w-2xl mx-auto">
-            Follow us on Instagram @house_of_range to see our latest drops,
+            Follow us on Instagram @house_of_rage_ to see our latest drops,
             behind-the-scenes content, and community highlights.
           </p>
           <a
-            href="https://instagram.com/house_of_range"
+            href="https://instagram.com/house_of_rage_"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all hover:scale-105"
